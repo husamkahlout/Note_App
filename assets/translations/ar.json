@@ -1,0 +1,9 @@
+{
+   "appName" : "المفكرة",
+   "title":"العنوان",
+   "description": "اكتب شيئا...",
+   "saveButton": "حفظ",
+   "emptyTilte": "لا يمكن للعنوان ان يكون فارغ",
+   "emptyDescription": "لا يمكن للوصف ان يكون فارغ ",
+   "noNotes" : "لا يوجد اي مفكرة "
+}

@@ -1,0 +1,9 @@
+{
+    "appName" : "Notes",
+    "title":"Title",
+    "description": "Type something...",
+    "saveButton": "Save",
+    "emptyTilte": "The title cannot be empty",
+    "emptyDescription": "The description cannot be empty",
+    "noNotes" : "No Notes"
+ }
